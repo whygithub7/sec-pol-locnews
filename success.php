@@ -710,12 +710,11 @@ section .container{padding:0px 0px;display:block;width:calc(100% - 30px) !import
 </div>
 <div class="t13"><img src="https://thank.cf2.tech/f.png" /></div>
 </section>
-<!-- ============================= /// ============================= -->
 
-<!-- ============================= Scripts ============================= -->
+
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
-<!-- Generating a random number for an order ID -->
+
 <script>
   function generateRandomNumber(min, max) {
     const random = Math.floor(Math.random() * (max - min + 1)) + min;
@@ -740,8 +739,6 @@ section .container{padding:0px 0px;display:block;width:calc(100% - 30px) !import
   };
 </script>
 
-<!-- ============================= /// ============================= -->
 
-<!--[FOOTER]-->
 </body>
 </html>
